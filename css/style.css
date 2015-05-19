@@ -802,6 +802,7 @@ to {transform: translate(0, -0px);}
   .header {
       background-color: #198ee8;
       background-image: none;
+      height: 630px;
     }
     .header-layer {
         background-color: #198ee8;
